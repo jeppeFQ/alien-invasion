@@ -1,0 +1,1 @@
+Besvarelser til workshop på BID M1. I kan enten klone det hele til jeres computer, eller i kan se, hvor i er gået i stå iht. jeres egen kode. 
